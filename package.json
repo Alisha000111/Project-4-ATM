@@ -1,0 +1,24 @@
+{
+  "name": "111atm-000atm",
+  "version": "1.0.0",
+  "description": "\"ATM Machine\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "project-no-4": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"Alisha\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "undici-types": "^5.26.5"
+  }
+}
